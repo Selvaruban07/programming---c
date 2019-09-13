@@ -53,5 +53,6 @@ void searchcar(struct car*c, int key)
     }
     else
     printf("car not found");
+    break;
     }
 }
